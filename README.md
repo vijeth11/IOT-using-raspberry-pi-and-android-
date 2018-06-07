@@ -1,6 +1,7 @@
 # IOT-using-raspberry-pi-and-android-
 
-
+This project is about controling the Raspberry pi through internet using android app. At present in this project it consists of features like security using phizo sensors and  controlling of led light.
+Full discription of the project is in the paper which i am going to shorly publish and put the link here.
 It consists of php files within android. 
 Delete the finalyear folder.
 Create a seperate folder with any name and add homesecutity.php in it.
